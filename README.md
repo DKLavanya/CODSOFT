@@ -1,4 +1,5 @@
 CODSOFT Data Science Internship Portfolio:
+
       Welcome to my Data Science Internship Portfolio! This repository showcases a series of projects completed during my internship at Codsoft. Each project reflects my expertise in data analysis, machine learning, and practical problem-solving. Here’s an overview of what you’ll find:
 
 Projects:
