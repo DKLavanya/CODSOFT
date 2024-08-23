@@ -1,31 +1,22 @@
 CODSOFT Data Science Internship Portfolio:
-
       Welcome to my Data Science Internship Portfolio! This repository showcases a series of projects completed during my internship at Codsoft. Each project reflects my expertise in data analysis, machine learning, and practical problem-solving. Here’s an overview of what you’ll find:
 
 Projects:
 
 Titanic Survival Prediction
-
 Objective: 
-
       Predict the survival likelihood of Titanic passengers using historical data. This project encompasses data cleaning, feature engineering, and the application of various machine learning algorithms to estimate survival chances.
 
 Movie Rating Prediction
-
 Objective: 
-
       Develop a model to predict movie ratings based on features like genre, director, and actors. The project involves gathering and preprocessing data, followed by implementing regression techniques to forecast ratings and uncover trends in movie evaluations.
 
 Iris Species Classification
-
 Objective: 
-
       Classify iris flowers into one of three species using their sepal and petal measurements. This project employs the Iris dataset to apply classification algorithms and evaluate model accuracy in distinguishing between species.
 
 Sales Forecasting
-
 Objective: 
-
       Forecast future sales based on historical data and various influencing factors. This project includes analyzing past sales trends, preparing data for modeling, and building predictive models to guide business decisions and optimize sales strategies.
 
 Fraud Detection in Credit Card Transactions
